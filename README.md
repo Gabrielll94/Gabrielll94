@@ -1,16 +1,37 @@
 ### Hi there 👋
 
-<!--
-**Gabrielll94/Gabrielll94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Gabriel Olivares!
 
-Here are some ideas to get you started:
+Technical Skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+JavaScript 💻
+HTML 🌐
+CSS 🎨
+Node.js 🚀
+Redux 🔄
+SQL 📊
+Express 🛠️
+PostgreSQL 🐘
+Material UI 🎉
+Postman 📬
+Vite 🌀
+TypeScript 📝
+SCSS 🎨
+Cloudinary ☁️
+Visual Studio 💻
+MySQL 🏦
+Soft Skills:
+
+Leadership 🌟
+Team Player 🤝
+Problem Solving 🧠
+Critical Thinking 🤔
+Dedication 🚀
+Autonomy 🚀
+Communicative 🗣️
+Short Bio:
+I'm a passionate developer with strong skills in web technologies such as JavaScript, HTML, CSS, and frameworks like Node.js and Redux. My expertise extends to SQL databases, with a focus on PostgreSQL and MySQL. I also have advanced skills in tools like Material UI, Postman, Vite, and TypeScript, providing quality and efficient solutions in development. My approach goes beyond coding; I bring soft skills like leadership, teamwork, problem-solving, and critical thinking, making me a dedicated, autonomous, and communicative collaborator in any project. 🚀
+
+If you interesting in my profile or have a job for me, please contact me:
+Mail: jgabriel.olivares1994@gmail.com
+LinkedIn: https://www.linkedin.com/in/gabriel-olivares-443176232/
